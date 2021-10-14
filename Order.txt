@@ -1,0 +1,6 @@
+Order id: 5
+Client id: 2
+Date : 2021-09-09 12:00
+Ordered products:
+  Ethiopian Spice Tea 
+Total order: 49
